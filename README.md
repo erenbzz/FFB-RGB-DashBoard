@@ -10,7 +10,7 @@ Bu projede simülasyonlarda kullanabileceğiniz bir gösterge paneli ürettim. /
 - 1 adet Arduino Nano mikroişlemci.
 - 2 adet TM1637 display.
 - 1 adet 25mm 7-Segment Display.
-- 74HC595 entegre.
+- 1 adet 74HC595 entegre.
 - 2 adet WS2812B-8 Rgb Led.
 - 2 adet Push Button 6x6mm.
 # Links: </br>
