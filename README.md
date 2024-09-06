@@ -4,7 +4,7 @@
 Bu projede simülasyonlarda kullanabileceğiniz bir gösterge paneli ürettim. / In this project, I produced a dashboard that you can use in simulations.
 ![4](https://github.com/user-attachments/assets/baf7bd1b-2e57-43f1-905a-69804c60d4ee)
 # Çalışma prensibi: <br>
- Ürünümüz yarış simülasyonlarıyla SimHub programıyla haberleşiyor. Mikroişlemci olarak Arduino Nanoyu kullandım. Rgb ledler redline işlevini görüyor. Ortadaki ekranda vitesi görüntüleyebiliyoruz. Kenarlardaki ekranlarda ise istediğimiz herhangi telemetrileri(hız, tur süresi, vb.) yazdırabiliriz. Yan tarafta bulunan 2 adet butonlara işlevsel atamalar yapabiliriz.
+ Ürünümüz yarış simülasyonlarıyla SimHub programı sayesinde haberleşiyor. Mikroişlemci olarak Arduino Nanoyu kullandım. Arduino bilgisayardan aldığı datalara göre ürünümüzdeki fonksiyonları çalıştırıyor. Rgb ledler redline işlevini görüyor. Ortadaki ekranda vitesi görüntüleyebiliyoruz. Kenarlardaki ekranlarda ise istediğimiz telemetrileri(hız, tur süresi, vb.) yazdırabiliriz. Yan tarafta bulunan 2 adet butonlara işlevsel atamalar yapabiliriz.
 ![5](https://github.com/user-attachments/assets/7688208f-9df3-4484-a9b2-92a7f113026e)
 # Projede Kullanılan Ana Malzemeler: </br>
 - 1 adet Arduino Nano mikroişlemci.
