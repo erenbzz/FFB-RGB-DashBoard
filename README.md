@@ -1,7 +1,8 @@
 # FFB RGB Gösterge Paneli - FFB RGB Dashboard
-![alt text](image.png)
+
 # Açıklama: <br>
 Bu projede simülasyonlarda kullanabileceğiniz bir gösterge paneli ürettim. / In this project, I produced a dashboard that you can use in simulations.
+![1](https://github.com/user-attachments/assets/d5f9b7b9-9f61-40b7-909e-5ed7dc2699fc)
 
 # Çalışma prensibi: <br>
  Ürünümüz yarış simülasyonlarıyla SimHub programıyla haberleşiyor. Mikroişlemci olarak Arduino Nanoyu kullandım. Rgb ledler redline işlevini görüyor. Ortadaki ekranda vitesi görüntüleyebiliyoruz. Kenarlardaki ekranlarda ise istediğimiz herhangi telemetrileri(hız, tur süresi, vb.) yazdırabiliriz. Yan tarafta bulunan 2 adet butonlara işlevsel atamalar yapabiliriz.
