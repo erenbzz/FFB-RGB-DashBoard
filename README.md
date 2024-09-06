@@ -15,6 +15,8 @@ Bu projede simülasyonlarda kullanabileceğiniz bir gösterge paneli ürettim. /
 - 2 adet Push Button 6x6mm.
 # Links: </br>
 - SimHub: https://www.simhubdash.com/download-2/
-![3](https://github.com/user-attachments/assets/f50ae31f-1ea0-49a8-9eee-33fcc818e204)
-![2](https://github.com/user-attachments/assets/04cf9e64-ea09-434e-9f15-510b9cd5469d)
 
+<div display="flex" justify-content="space-between" >
+ <img src="https://github.com/user-attachments/assets/f50ae31f-1ea0-49a8-9eee-33fcc818e204" width="48%">
+ <img src="https://github.com/user-attachments/assets/04cf9e64-ea09-434e-9f15-510b9cd5469d" width="48%">
+</div>
